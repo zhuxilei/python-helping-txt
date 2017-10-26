@@ -1,15 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to python-helping
 
-You can use the [editor on GitHub](https://github.com/zhuxilei/python-helping-txt/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [python-helping](https://zhuxilei.github.io/python-helping-txt/) to help you learn the Python.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+你可以使用这个网站来帮助你学习Python。
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### 1.注释
+使用#来注释代码
 ```markdown
-Syntax highlighted code block
+a = 1
+#将1赋值给a
 
 # Header 1
 ## Header 2
