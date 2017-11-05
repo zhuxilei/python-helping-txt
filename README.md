@@ -67,13 +67,13 @@ and可以连接两个表达式，只要有一个表达式的结果为False整个
 or同样连接两个表达式，只要有一个表达式的结果为True整个表达式的结果即为True，只有当两个表达式结果都为False整个表达式的结果才为False。可以把or想象成一个仁慈的判官，只要还有一点是对的，那么就对整个人肯定。
 
 它们的处理关系如下表所示：
-
+```markdown
 expr1	 expr2	 expr1 and expr2	 expr1 or expr2
 True	 True	        True	             True
 True	 False	      False	             True
 False	 True	        False	             True
 False	 False	      False	             False
-
+```
 可以试下面的例子：
 ```markdown
 print 1 + 1 == 2 and 1 + 1 == 3
